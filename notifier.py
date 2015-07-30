@@ -10,7 +10,7 @@ class ClassProperty(property):
 
 class Notifier:
     """ a class to notify the user of some events """
-    def __init__(self, verbosity=0):
+    def __init__(self, verbosity=False):
         if verbosity == False:
             verbosity = Notifier.NORMAL
 
