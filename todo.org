@@ -1,3 +1,7 @@
+* TODO create a installer with scons
 * Notifier
-** TODO transform 'verbose' to property
-** TODO create a log system
+** DONE transform 'verbose' to properties
+   CLOSED: [2015-07-30 jeu. 11:00]
+** DONE create a log system
+   CLOSED: [2015-07-30 jeu. 11:00]
+   better use a redirection "command > file"
